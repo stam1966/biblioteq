@@ -53,11 +53,11 @@
     </message>
     <message>
         <source>hardcover</source>
-        <translation type="unfinished"></translation>
+        <translation type="σκληρό εξώφυλλο"></translation>
     </message>
     <message>
         <source>paperback</source>
-        <translation type="unfinished"></translation>
+        <translation type="βιβλίο τσέπης"></translation>
     </message>
     <message>
         <source>Exporting image(s)...</source>
@@ -1791,7 +1791,7 @@ The file qt.conf is present in BiblioteQ&apos;s current working directory. Perha
     </message>
     <message>
         <source>All Available</source>
-        <translation type="unfinished"></translation>
+        <translation type="Όλα Διαθέσιμα"></translation>
     </message>
     <message>
         <source>Grey Literature</source>
@@ -2110,15 +2110,15 @@ The file qt.conf is present in BiblioteQ&apos;s current working directory. Perha
     </message>
     <message>
         <source>Call Number:</source>
-        <translation type="unfinished">Αριθμός τηλεφώνου:</translation>
+        <translation type="unfinished">Ταξιθετικός Αριθμός:</translation>
     </message>
     <message>
         <source>Dewey Class Number:</source>
-        <translation type="unfinished">Dewey Αριθμός τάξης:</translation>
+        <translation type="unfinished">Αριθμός τάξης Dewey :</translation>
     </message>
     <message>
         <source>Publication Date:</source>
-        <translation type="unfinished">Ημερομηνία έκδοση:</translation>
+        <translation type="unfinished">Ημερομηνία έκδοσης:</translation>
     </message>
     <message>
         <source>Publisher:</source>
@@ -2382,23 +2382,23 @@ The file qt.conf is present in BiblioteQ&apos;s current working directory. Perha
     </message>
     <message>
         <source>Authors:</source>
-        <translation type="unfinished"></translation>
+        <translation type="Συγγραφέας (-εις)"></translation>
     </message>
     <message>
         <source>Title:</source>
-        <translation type="unfinished"></translation>
+        <translation type="Τίτλος"></translation>
     </message>
     <message>
         <source>Originality:</source>
-        <translation type="unfinished"></translation>
+        <translation type="Σχέση με το πρωτότυπο"></translation>
     </message>
     <message>
         <source>Condition:</source>
-        <translation type="unfinished"></translation>
+        <translation type="Κατάσταση"></translation>
     </message>
     <message>
         <source>Accession Number:</source>
-        <translation type="unfinished"></translation>
+        <translation type="Αριθμός Πρόσβασης"></translation>
     </message>
     <message>
         <source>Replace existing values with those retrieved from the SRU site?</source>
@@ -3410,23 +3410,23 @@ The file qt.conf is present in BiblioteQ&apos;s current working directory. Perha
     </message>
     <message>
         <source>Originality</source>
-        <translation type="unfinished"></translation>
+        <translation type="Σχέση με το Πρωτότυπο"></translation>
     </message>
     <message>
-        <source>Condition</source>
+        <source>Κατάσταση</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Black &amp; White Copy</source>
-        <translation type="unfinished"></translation>
+        <translation type="Ασπρόμαυρο Αντίγραφο"></translation>
     </message>
     <message>
         <source>Color Copy</source>
-        <translation type="unfinished"></translation>
+        <translation type="Εγχρωμο αντίγραφο"></translation>
     </message>
     <message>
         <source>Original</source>
-        <translation type="unfinished"></translation>
+        <translation type="Αυθεντικό"></translation>
     </message>
     <message>
         <source>As New</source>
@@ -3434,35 +3434,35 @@ The file qt.conf is present in BiblioteQ&apos;s current working directory. Perha
     </message>
     <message>
         <source>Binding Copy</source>
-        <translation type="unfinished"></translation>
+        <translation type="Σαν καινούργιο"></translation>
     </message>
     <message>
         <source>Book Club</source>
-        <translation type="unfinished"></translation>
+        <translation type="Λέσχης Βιβλίου"></translation>
     </message>
     <message>
         <source>Ex-Library</source>
-        <translation type="unfinished"></translation>
+        <translation type="Από Βιβλιοθήκη"></translation>
     </message>
     <message>
         <source>Fair</source>
-        <translation type="unfinished"></translation>
+        <translation type="Αξιοπρεπές"></translation>
     </message>
     <message>
         <source>Fine</source>
-        <translation type="unfinished"></translation>
+        <translation type="Άριστο"></translation>
     </message>
     <message>
         <source>Good</source>
-        <translation type="unfinished"></translation>
+        <translation type="Καλό"></translation>
     </message>
     <message>
         <source>Poor</source>
-        <translation type="unfinished"></translation>
+        <translation type="Κακό"></translation>
     </message>
     <message>
         <source>Very Good</source>
-        <translation type="unfinished"></translation>
+        <translation type="Πολύ καλό"></translation>
     </message>
     <message>
         <source>Unable to allocate memory for the &quot;combobox&quot; object. This is a serious problem!</source>
@@ -3593,7 +3593,7 @@ The file qt.conf is present in BiblioteQ&apos;s current working directory. Perha
     </message>
     <message>
         <source>Book Binding</source>
-        <translation type="unfinished"></translation>
+        <translation type="Βιβλιοδεσία"></translation>
     </message>
     <message>
         <source>Document Type</source>
@@ -5182,11 +5182,11 @@ The file qt.conf is present in BiblioteQ&apos;s current working directory. Perha
     </message>
     <message>
         <source>Call Number</source>
-        <translation type="unfinished">Αριθμός τηλεφώνου</translation>
+        <translation type="unfinished">Ταξιθετικός Αριθμός</translation>
     </message>
     <message>
         <source>Dewey Class Number</source>
-        <translation type="unfinished">Dewey Αριθμός τάξης</translation>
+        <translation type="unfinished">Αριθμός τάξης Dewey</translation>
     </message>
     <message>
         <source>Format</source>
@@ -8051,11 +8051,11 @@ URL</source>
     </message>
     <message>
         <source>Call Number</source>
-        <translation>Αριθμός τηλεφώνου</translation>
+        <translation>Ταξιθετικός Αριθμός</translation>
     </message>
     <message>
         <source>Dewey Class Number</source>
-        <translation>Dewey Αριθμός τάξης</translation>
+        <translation>Αριθμός τάξης Dewey</translation>
     </message>
     <message>
         <source>General Information</source>
@@ -9693,7 +9693,7 @@ URL</source>
     </message>
     <message>
         <source>Call Number</source>
-        <translation type="unfinished">Αριθμός τηλεφώνου</translation>
+        <translation type="unfinished">Ταξιθετικός Αριθμός</translation>
     </message>
     <message>
         <source>Publication Date</source>
@@ -11488,11 +11488,11 @@ URL</source>
     </message>
     <message>
         <source>Call Number</source>
-        <translation type="obsolete">Αριθμός τηλεφώνου</translation>
+        <translation type="obsolete">Ταξιθετικός Αριθμός</translation>
     </message>
     <message>
         <source>Dewey Class Number</source>
-        <translation type="obsolete">Dewey Αριθμός τάξης</translation>
+        <translation type="obsolete">Αριθμός τάξης Dewey</translation>
     </message>
     <message>
         <source>Availability</source>
@@ -11648,11 +11648,11 @@ URL</source>
     </message>
     <message>
         <source>Call Number:</source>
-        <translation type="obsolete">Αριθμός τηλεφώνου:</translation>
+        <translation type="obsolete">Ταξιθετικός Άριθμός:</translation>
     </message>
     <message>
         <source>Dewey Class Number:</source>
-        <translation type="obsolete">Dewey Αριθμός τάξης:</translation>
+        <translation type="obsolete">Αριθμός τάξης Dewey:</translation>
     </message>
     <message>
         <source>Title:</source>
